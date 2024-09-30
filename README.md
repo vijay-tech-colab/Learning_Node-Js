@@ -122,6 +122,3 @@ server.listen(3000, () => {
 
 <h2 id="contributing">Contributing</h2>
 <p>If you'd like to contribute, please feel free to submit a pull request or open an issue. Contributions are always welcome!</p>
-
-<h2 id="license">License</h2>
-<p>This project is licensed under the MIT License. See the <a href="./LICENSE">LICENSE</a> file for more details.</p>
